@@ -1,6 +1,6 @@
 body,html{background-image: url("../img/space.png");height:100%;padding:0px;margin:0px;}
 
-.a{width:100%;height:20%;overflow:hidden;position:fixed;top:0px}
+.a{width:100%;height:18%;overflow:hidden;position:fixed;top:0px}
 
 .b{width:100%;height:100%;overflow:hidden;}
 
@@ -31,7 +31,7 @@ font-weight: bold;}
 .win{background-image: url("../img/cpanelbg.png"); position:fixed; right:25%; left: 25%; top:10%; border-style: outset;
 					padding:2%;display:none;}
 					
-.caput{background-image: url("../img/cpanelbg.png"); position:fixed; right:2%; left:2%; top:2%; border-style: outset;
+.caput{background-image: url("../img/cpanelbg.png"); position:fixed; right:2%; left:2%; top:8%; border-style: outset;
 					padding:2%; display:none;}
 #caput1, #caputContinue{background-color:gray; border-style: inset; font-size: 1.4em;}
 #caputContinue:hover{background-color: #0431B4;}
