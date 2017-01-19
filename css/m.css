@@ -31,7 +31,7 @@ font-weight: bold;}
 .win{background-image: url("../img/cpanelbg.png"); position:fixed; right:25%; left: 25%; top:10%; border-style: outset;
 					padding:2%;display:none;}
 					
-.caput{background-image: url("../img/cpanelbg.png"); position:fixed; right:2%; left:2%; top:15%; border-style: outset;
+.caput{background-image: url("../img/cpanelbg.png"); position:fixed; right:2%; left:2%; top:2%; border-style: outset;
 					padding:2%; display:none;}
 #caput1, #caputContinue{background-color:gray; border-style: inset; font-size: 1.4em;}
 #caputContinue:hover{background-color: #0431B4;}
