@@ -1,0 +1,37 @@
+body,html{background-image: url("../img/space.png");height:100%;padding:0px;margin:0px;}
+
+.a{width:100%;height:93px;overflow:hidden;position:fixed;top:0px}
+
+.b{width:100%;height:100%;overflow:hidden;}
+
+.c{position:fixed;top:0px;bottom:0px;left:0px;right:0px;display:none;z-index:1}
+
+.d{background-image: url("../img/luna.png");position:fixed;bottom:0px;height:10%;width:100%;}
+
+.m{background-color: black; border-style: inset; color: #FF8000;}
+
+#nave{text-align:center;position:fixed;top:10%;width:100%;height:20%}
+
+#nave img{height:100%;}
+
+#cpanel{background-image: url("../img/cpanelbg.png"); font-size: 1em; padding: 0; width: 42%; height:100%; border-style: outset;
+font-weight: bold;}
+
+#hidem,#showm{background-color: red; float:right}
+
+.f{background-image: url("../img/cpanelbg.png"); position: fixed; left: 20%; right: 20%; top: 10%; border-style: outset;
+					padding: 2%; display: none;}
+					
+.k{background-image: url("../img/cpanelbg.png"); position: fixed; left: 20%; right: 20%; top: 10%; border-style: outset;
+					padding: 2%; display: none;}
+					
+.ab{background-image: url("../img/cpanelbg.png"); position:fixed; right: 25%; left: 25%; top:10%; border-style: outset;
+					padding: 2%; display: none;}
+					
+.win{background-image: url("../img/cpanelbg.png"); position:fixed; right:25%; left: 25%; top:10%; border-style: outset;
+					padding:2%;display:none;}
+					
+.caput{background-image: url("../img/cpanelbg.png"); position:fixed; right:2%; left:2%; top:15%; border-style: outset;
+					padding:2%; display:none;}
+#caput1, #caputContinue{background-color:gray; border-style: inset; font-size: 1.4em;}
+#caputContinue:hover{background-color: #0431B4;}
