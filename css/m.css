@@ -30,6 +30,8 @@ font-weight: bold;}
 					
 .win{background-image: url("../img/cpanelbg.png"); position:fixed; right:25%; left: 25%; top:10%; border-style: outset;
 					padding:2%;display:none;}
+#win1, #winContinue{background-color: gray; border-style: inset; font-size: 1.7em;}
+#winContinue:hover{background-color: #0431b4;}
 					
 .caput{background-image: url("../img/cpanelbg.png"); position:fixed; right:2%; left:2%; top:8%; border-style: outset;
 					padding:2%; display:none;}
