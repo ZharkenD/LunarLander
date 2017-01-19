@@ -27,8 +27,8 @@ window.onload = function(){
 		start();
 	}
 	//encender/apagar el motor al hacer click en la pantalla
-	document.touchstart = motorOn;
-	document.touchend = motorOff;
+	document.ontouchstart = motorOn;
+	document.ontouchend = motorOff;
 	//encender/apagar al apretar/soltar una tecla
 	document.onkeydown = motorOn;
 	document.onkeyup = motorOff;
