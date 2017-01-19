@@ -13,3 +13,6 @@ he preferido centrarme en otras cosas, como minimizar errores.
 La información utilizada para crear este proyecto ha sido una mezcla entre
 búsquedas por internet, mayoritariamente en w3schools.com y conversaciones
 entre compañeros de clase, dandonos ideas y unos a otros.
+
+Para usar las versiones minified hay que cambiar el nombre de los archivos para
+que tengan el mismo nombre que las versiones indentadas (si no no funciona)
