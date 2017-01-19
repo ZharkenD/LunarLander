@@ -1,6 +1,6 @@
 body,html{background-image: url("../img/space.png");height:100%;padding:0px;margin:0px;}
 
-.a{width:100%;height:18%;overflow:hidden;position:fixed;top:0px}
+.a{width:100%;overflow:hidden;position:fixed;top:0px}
 
 .b{width:100%;height:100%;overflow:hidden;}
 
@@ -14,7 +14,7 @@ body,html{background-image: url("../img/space.png");height:100%;padding:0px;marg
 
 #nave img{height:100%;}
 
-#cpanel{background-image: url("../img/cpanelbg.png"); font-size: 1em; padding: 0; width: 42%; height:100%; border-style: outset;
+#cpanel{background-image: url("../img/cpanelbg.png"); font-size: 1em; padding: 1%;; width: 42%; height:100%; border-style: outset;
 font-weight: bold;}
 
 #hidem,#showm{background-color: red; float:right}
